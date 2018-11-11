@@ -1,4 +1,4 @@
-# Tensorflow Implementation 识别低俗图片
+# Tensorflow NSFW Detector 识别低俗图片
 
  [低俗图片分类器](https://github.com/yahoo/open_nsfw) Tensorflow 实现.
 
