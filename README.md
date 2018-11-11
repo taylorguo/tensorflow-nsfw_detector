@@ -47,7 +47,7 @@ usage: classify_cheesy_csv.py
 
 __Note:__  分类结果和图片加载方式有关 !
 
-__-t/--input_type__
+--input_type__
 
 如果使用图片的输入类型：`base64_jpeg` ,  就需要使用 `tensorflow` 图像加载方式。
 
@@ -71,6 +71,6 @@ Takes an input image and spits out an json file suitable for prediction requests
 
 ### fork from 
 
-```
+
 [mdietrichstein/tensorflow-open_nsfw](https://github.com/mdietrichstein/tensorflow-open_nsfw)
-```
+
