@@ -80,6 +80,8 @@ Takes an input image and spits out an json file suitable for prediction requests
 
 - [NSFW Data Scraper](https://github.com/alexkimxyz/nsfw_data_scraper) 
 
+	- reddit的图片一直下载不了, VPN
+
 - [NSFW data source URLs](https://github.com/EBazarov/nsfw_data_source_urls)
 
 	- Inspired by upper one, use its [scripts](https://github.com/alexkimxyz/nsfw_data_scraper/tree/master/scripts) to download images from URLs.
