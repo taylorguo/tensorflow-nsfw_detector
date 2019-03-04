@@ -78,4 +78,7 @@ Takes an input image and spits out an json file suitable for prediction requests
 
 ## NSFW Dataset 
 
+- [NSFW Data Scraper](https://github.com/alexkimxyz/nsfw_data_scraper) 
+
+- [NSFW data source URLs](https://github.com/EBazarov/nsfw_data_source_urls)
 
