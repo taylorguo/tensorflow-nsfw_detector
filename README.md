@@ -88,3 +88,7 @@ Takes an input image and spits out an json file suitable for prediction requests
 	
 	- Reddit URLs, use VPN to download from China.
 
+
+## Other NSFW Project
+
+- [Trained on ResNet](https://github.com/rockyzhengwu/nsfw)
