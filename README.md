@@ -2,7 +2,7 @@
 
  [低俗图片分类器](https://github.com/yahoo/open_nsfw) Tensorflow 实现.
 
-使用[Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow) 提取原有caffe weights. 保持在目录文件中： `data/open_nsfw-weights.npy`.
+使用[Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow) 提取原有caffe weights. 保存在目录文件中： `data/open_nsfw-weights.npy`.
 
 ## Prerequisites
 
